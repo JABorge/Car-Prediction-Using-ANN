@@ -18,3 +18,8 @@ Code from a machine learning course. Topics covered: Regression, ANN, Machine Le
 # Step 4: Training the model 
 
 # Step 5: Evaluating the model
+
+
+<img width="947" alt="Screen Shot 2021-02-09 at 2 52 14 PM" src="https://user-images.githubusercontent.com/60979174/107420017-6f76a180-6ae6-11eb-9ab6-de5fc4d43b49.png">
+<img width="937" alt="Screen Shot 2021-02-09 at 2 52 07 PM" src="https://user-images.githubusercontent.com/60979174/107420021-700f3800-6ae6-11eb-9d80-09602bd3aa64.png">
+<img width="945" alt="Screen Shot 2021-02-09 at 2 51 55 PM" src="https://user-images.githubusercontent.com/60979174/107420024-70a7ce80-6ae6-11eb-99e1-8ee4250186da.png">
